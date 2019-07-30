@@ -1,8 +1,8 @@
 [![HitCount](http://hits.dwyl.io/ro6ley/aws-chalice-demo.svg)](http://hits.dwyl.io/ro6ley/aws-chalice-demo)
 
-# Chalice Demo App for AWS Lambda Deployment
+# Serverless Python API with AWS Chalice
 
-This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
+This repository contains the code for this [blogpost](https://stackabuse.com/serverless-python-application-development-with-aws-chalice/) on [StackAbuse](https://stackabuse.com/).
 
 ## Getting Started
 
